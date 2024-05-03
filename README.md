@@ -1,3 +1,3 @@
-# Hello, I'm Muzhawir! 👋
+I'm Muzhawir, a web developer currently focusing on learning Elixir and its ecosystem.
 
-I'm a software developer with a passion for functional programming and scalable applications. I currently work extensively with Elixir.
+📝 You can find my learning notes on [DEV](https://dev.to/muzhawir).
