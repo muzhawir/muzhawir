@@ -1,7 +1,7 @@
-I am a web developer currently focusing on learning Elixir and its ecosystem ⚗️
+🧙🏼 **Apprentice Functional Alchemist**, currently learning to brew my first Elixir potions ⚗️
 
-- 📝 You can read my learning notes on [DEV](https://dev.to/muzhawir/series)
-- 🥋 I train and improve my coding skills on [Codewars](https://www.codewars.com/users/muzhawir)
+- 📜 You can read my learning scrolls on [DEV](https://dev.to/muzhawir/series)
+- 🪄 I train and enhance my spell skills on [Codewars](https://www.codewars.com/users/muzhawir)
 
 <br/>
 
