@@ -10,6 +10,6 @@
 <br/>
 
 <p>
-  <img src="https://wakatime.com/share/@muzhawir/7c3cac71-01c8-4336-b366-eee73843170b.svg" alt="Wakatime Coding Time" width="49%">
-  <img src="https://wakatime.com/share/@muzhawir/92809056-6ff8-4571-a065-f4b8c63cd1ca.svg" alt="Wakatime Coding Time" width="49%">
+  <img src="https://wakatime.com/share/@muzhawir/1020c390-4301-4705-b280-fba9c5c22eb4.svg" alt="Wakatime Coding Time" width="49%">
+  <img src="https://wakatime.com/share/@muzhawir/3336f114-6355-47cb-8730-b5c4f3b668be.svg" alt="Wakatime Coding Time" width="49%">
 </p>
