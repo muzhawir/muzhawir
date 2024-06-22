@@ -1,11 +1,7 @@
-🧙🏼 **Apprentice Functional Alchemist**, currently learning to brew my first Elixir potions ⚗️
+🧙🏼 **Neophyte Elixir Alchemist**, currently learning to brew my first potions while exploring the magical realm of this programming language ⚗️
 
-- 📜 You can read my learning scrolls on [DEV](https://dev.to/muzhawir/series)
+- 📖 You can read my magical grimoire on [DEV](https://dev.to/muzhawir/series)
 - 🪄 I train and enhance my spell skills on [Codewars](https://www.codewars.com/users/muzhawir)
-
-<br/>
-
-![Codewars](https://www.codewars.com/users/muzhawir/badges/micro)
 
 <br/>
 
