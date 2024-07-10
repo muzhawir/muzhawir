@@ -1,5 +1,7 @@
 🧙🏼 **Neophyte Elixir Alchemist**, currently learning to brew my first potions while exploring the magical realm of this programming language ⚗️
 
+🧙🏼 **Neophyte Elixir Alchemist**, currently learning to transmute Elixir into Philosopher's Stone while exploring the magical realm of this programming language ⚗️
+
 <!--
 - 📖 You can read my magical grimoire on [DEV](https://dev.to/muzhawir/series)
 - 🪄 I train and enhance my spell skills on [Codewars](https://www.codewars.com/users/muzhawir)
