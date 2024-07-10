@@ -1,5 +1,3 @@
-🧙🏼 **Neophyte Elixir Alchemist**, currently learning to brew my first potions while exploring the magical realm of this programming language ⚗️
-
 🧙🏼 **Neophyte Elixir Alchemist**, currently learning to transmute Elixir into Philosopher's Stone while exploring the magical realm of this programming language ⚗️
 
 <!--
