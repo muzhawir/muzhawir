@@ -1,8 +1,9 @@
 🧙🏼 **Neophyte Elixir Alchemist**, currently learning to brew my first potions while exploring the magical realm of this programming language ⚗️
 
+<!--
 - 📖 You can read my magical grimoire on [DEV](https://dev.to/muzhawir/series)
 - 🪄 I train and enhance my spell skills on [Codewars](https://www.codewars.com/users/muzhawir)
-
+-->
 <br/>
 
 <p>
