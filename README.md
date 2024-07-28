@@ -1,4 +1,4 @@
-🧙🏼 **Neophyte Elixir Alchemist**, currently learning to transmute Elixir into Philosopher's Stone while exploring the magical realm of this programming language ⚗️
+🧙🏼 **Neophyte Elixir Alchemist** — currently learning to write Elixir sigils into hex scrolls while exploring the magical realm of this programming language ⚗️
 
 <!--
 - 📖 You can read my magical grimoire on [DEV](https://dev.to/muzhawir/series)
