@@ -3,7 +3,7 @@
 ## Latest Post
 
 <!-- BLOG-POST-LIST:START -->
-- [Belajar Bahasa Pemrograman Fungsional Elixir &lpar;Bagian 1&rpar;](https://dev.to/muzhawir/01-mari-belajar-bahasa-pemrograman-fungsional-elixir-bagian-1-5emh)
+- [Berkenalan Dengan Bahasa Pemrograman Fungsional Elixir &lpar;Bagian 1&rpar;](https://dev.to/muzhawir/01-mari-belajar-bahasa-pemrograman-fungsional-elixir-bagian-1-5emh)
 <!-- BLOG-POST-LIST:END -->
 
 ## WakaTime Metrics
