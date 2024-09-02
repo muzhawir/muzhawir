@@ -3,6 +3,7 @@
 ## Latest Post
 
 <!-- BLOG-POST-LIST:START -->
+- [Mengelola Kode Dengan Modul Dan Fungsi](https://dev.to/muzhawir/mengelola-kode-dengan-modul-dan-fungsi-15k2)
 - [Variabel Dan Konsep Binding](https://dev.to/muzhawir/variabel-dan-konsep-binding-3850)
 - [Menggunakan IEx, Shell Interaktif di Elixir](https://dev.to/muzhawir/menggunakan-iex-shell-interaktif-di-elixir-4pkf)
 - [Berkenalan Dengan Bahasa Pemrograman Fungsional Elixir &lpar;Bagian 2&rpar;](https://dev.to/muzhawir/berkenalan-dengan-bahasa-pemrograman-fungsional-elixir-bagian-2-349f)
