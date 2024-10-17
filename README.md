@@ -1,6 +1,6 @@
 🧙🏼 **Neophyte Elixir Alchemist** — currently learning to write Elixir sigils into hex scrolls while exploring the magical realm of this programming language ⚗️
 
-## Latest Post
+## [Latest Post](https://dev.to/muzhawir)
 
 <!-- BLOG-POST-LIST:START -->
 - [Mengelola Kode Dengan Modul Dan Fungsi](https://dev.to/muzhawir/mengelola-kode-dengan-modul-dan-fungsi-15k2)
