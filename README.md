@@ -16,3 +16,7 @@
   <img src="https://wakatime.com/share/@muzhawir/1020c390-4301-4705-b280-fba9c5c22eb4.svg" alt="Wakatime Coding Time" width="49%">
   <img src="https://wakatime.com/share/@muzhawir/3336f114-6355-47cb-8730-b5c4f3b668be.svg" alt="Wakatime Coding Time" width="49%">
 </p>
+
+<br />
+
+<img src="https://wakatime.com/share/@muzhawir/ef8b999d-e64f-4bbe-b845-e21423dd0081.svg" alt="Wakatime Coding Time" width="100%">
