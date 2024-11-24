@@ -10,13 +10,12 @@
 - [Berkenalan Dengan Bahasa Pemrograman Fungsional Elixir &lpar;Bagian 1&rpar;](https://dev.to/muzhawir/01-mari-belajar-bahasa-pemrograman-fungsional-elixir-bagian-1-5emh)
 <!-- BLOG-POST-LIST:END -->
  
-## WakaTime Metrics
+## [Activity Metrics](https://wakatime.com/@muzhawir)
 
 <p>
+  <img src="https://wakatime.com/share/@muzhawir/393446ec-36e2-40e7-88c4-251bfc79b658.svg" alt="Wakatime Coding Time" width="100%">
+  <br/> <br/>
   <img src="https://wakatime.com/share/@muzhawir/1020c390-4301-4705-b280-fba9c5c22eb4.svg" alt="Wakatime Coding Time" width="49%">
   <img src="https://wakatime.com/share/@muzhawir/3336f114-6355-47cb-8730-b5c4f3b668be.svg" alt="Wakatime Coding Time" width="49%">
 </p>
 
-<br />
-
-<img src="https://wakatime.com/share/@muzhawir/393446ec-36e2-40e7-88c4-251bfc79b658.svg" alt="Wakatime Coding Time" width="100%">
