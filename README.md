@@ -11,7 +11,7 @@
 <!-- BLOG-POST-LIST:END -->
  
 ## [Activity Metrics](https://wakatime.com/@muzhawir)
-
+[![wakatime](https://wakatime.com/badge/user/f5ab341c-f168-4b00-b4f3-6cabfa9c6ff0.svg)](https://wakatime.com/@f5ab341c-f168-4b00-b4f3-6cabfa9c6ff0)
 <p>
   <img src="https://wakatime.com/share/@muzhawir/393446ec-36e2-40e7-88c4-251bfc79b658.svg" alt="Wakatime Coding Time" width="100%">
   <br/> <br/>
