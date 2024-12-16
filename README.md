@@ -1,4 +1,4 @@
-🧙🏼⚗️ **A Neophyte Elixir Alchemist** — learning to craft Elixir sigils, writing them into the Hex Grimoire, and discovering the magic of this programming language along the way.
+🧙🏼⚗️ **A neophyte alchemist**, learning to incant sigils into the Elixir, reading through the Hex Grimoire, and discovering the magic of this programming language.
 
 ## [Latest Post](https://dev.to/muzhawir) • [Learning Notes Series](https://dev.to/muzhawir/series)
 
