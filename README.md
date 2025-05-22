@@ -1,7 +1,7 @@
 ## [Latest Posts](https://dev.to/muzhawir)
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Pemrograman Fungsional dan Platform Erlang](https://dev.to/muzhawir/pemrograman-fungsional-dan-platform-erlang-4mhe)
 <!-- BLOG-POST-LIST:END -->
 
 ## [Activity Metrics](https://wakatime.com/@muzhawir)
