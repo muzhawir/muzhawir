@@ -5,7 +5,8 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 0 1-7,15-21 * 1'
+    - cron: '0 0 1-7 * 1' # Runs at 00:00 on the first Monday of each month
+
 jobs:
   devcard:
     runs-on: ubuntu-latest
