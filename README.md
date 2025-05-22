@@ -13,7 +13,7 @@
   <b>Activity Last Year</b>
   <img src="https://wakatime.com/share/@muzhawir/393446ec-36e2-40e7-88c4-251bfc79b658.svg" alt="Wakatime Coding Time" width="100%">
 
-  <br/> <br/>
+  <br/>
 
   <b>Editors & Languages</b>
   <br/>
