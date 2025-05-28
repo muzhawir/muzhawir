@@ -1,4 +1,4 @@
-## [Latest Posts](https://dev.to/muzhawir) • [Learning Notes Series](https://dev.to/muzhawir/series)
+## [Latest Posts](https://dev.to/muzhawir)
 
 <!-- BLOG-POST-LIST:START -->
 - [Pemrograman Fungsional dan Platform Erlang](https://dev.to/muzhawir/pemrograman-fungsional-dan-platform-erlang-4mhe)
