@@ -7,6 +7,9 @@ on:
   schedule:
     - cron: '0 0 1-7 * 1' # Runs at 00:00 on the first Monday of each month
 
+permissions:
+  contents: write
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
