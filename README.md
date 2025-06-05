@@ -1,6 +1,7 @@
 ## [Latest Posts on DEV](https://dev.to/muzhawir) • [Learning Notes Series](https://dev.to/muzhawir/series)
 
 <!-- BLOG-POST-LIST:START -->
+- [Berkenalan Dengan Bahasa Pemrograman Elixir](https://dev.to/muzhawir/berkenalan-dengan-bahasa-pemrograman-elixir-ne9)
 - [Functional Programming and Erlang Platform](https://dev.to/muzhawir/functional-programming-and-erlang-platform-3051)
 - [Pemrograman Fungsional dan Platform Erlang](https://dev.to/muzhawir/pemrograman-fungsional-dan-platform-erlang-4mhe)
 <!-- BLOG-POST-LIST:END -->
