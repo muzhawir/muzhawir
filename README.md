@@ -1,11 +1,11 @@
 ## [Latest Posts on DEV](https://dev.to/muzhawir) • [Learning Notes Series](https://dev.to/muzhawir/series)
 
 <!-- BLOG-POST-LIST:START -->
+- [IEx: Elixir&#39;s Interactive Shell](https://dev.to/muzhawir/iex-elixirs-interactive-shell-1hbk)
 - [IEx: Shell Interaktif Elixir](https://dev.to/muzhawir/iex-shell-interaktif-elixir-28cb)
 - [Preparing the Elixir Development Environment](https://dev.to/muzhawir/preparing-the-elixir-development-environment-39ep)
 - [Mempersiapkan Lingkungan Pengembangan Elixir](https://dev.to/muzhawir/mempersiapkan-lingkungan-pengembangan-elixir-247)
 - [Getting to Know Elixir Programming Language](https://dev.to/muzhawir/getting-to-know-elixir-programming-language-5ek9)
-- [Berkenalan Dengan Bahasa Pemrograman Elixir](https://dev.to/muzhawir/berkenalan-dengan-bahasa-pemrograman-elixir-ne9)
 <!-- BLOG-POST-LIST:END -->
 
 ## [Activity Metrics](https://wakatime.com/@muzhawir)
