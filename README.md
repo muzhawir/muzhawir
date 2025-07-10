@@ -6,6 +6,9 @@
 - [Preparing the Elixir Development Environment](https://dev.to/muzhawir/preparing-the-elixir-development-environment-39ep)
 - [Mempersiapkan Lingkungan Pengembangan Elixir](https://dev.to/muzhawir/mempersiapkan-lingkungan-pengembangan-elixir-247)
 - [Getting to Know Elixir Programming Language](https://dev.to/muzhawir/getting-to-know-elixir-programming-language-5ek9)
+- [Berkenalan Dengan Bahasa Pemrograman Elixir](https://dev.to/muzhawir/berkenalan-dengan-bahasa-pemrograman-elixir-ne9)
+- [Functional Programming and Erlang Platform](https://dev.to/muzhawir/functional-programming-and-erlang-platform-3051)
+- [Pemrograman Fungsional dan Platform Erlang](https://dev.to/muzhawir/pemrograman-fungsional-dan-platform-erlang-4mhe)
 <!-- BLOG-POST-LIST:END -->
 
 ## [Activity Metrics](https://wakatime.com/@muzhawir)
