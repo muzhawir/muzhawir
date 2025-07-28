@@ -1,6 +1,7 @@
 ## [Latest Posts on DEV](https://dev.to/muzhawir) • [Learning Notes Series](https://dev.to/muzhawir/series)
 
 <!-- BLOG-POST-LIST:START -->
+- [Variable, Immutability, And Garbage Collection](https://dev.to/muzhawir/variable-immutability-and-garbage-collection-ef2)
 - [Variabel, Imutabilitas, dan Garbage Collection](https://dev.to/muzhawir/variabel-imutabilitas-dan-garbage-collection-1083)
 - [IEx: Elixir&#39;s Interactive Shell](https://dev.to/muzhawir/iex-elixirs-interactive-shell-1hbk)
 - [IEx: Shell Interaktif Elixir](https://dev.to/muzhawir/iex-shell-interaktif-elixir-28cb)
